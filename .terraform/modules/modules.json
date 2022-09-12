@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"azure_creds","Source":"./modules/azure_cred","Dir":"modules/azure_cred"},{"Key":"nsg","Source":"./modules/nsg","Dir":"modules/nsg"},{"Key":"resource_group","Source":"./modules/resource_group","Dir":"modules/resource_group"},{"Key":"vnet","Source":"./modules/vnet","Dir":"modules/vnet"}]}
